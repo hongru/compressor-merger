@@ -1,0 +1,1 @@
+(function(){this.test1_func=function(a){alert(a)}})();var test2={key:"my name is hongru",method:function(a){a=a||"hongru";alert(a)}},test3=function(){return{sth:"aaa",func:function(){return"aaa"}}}();
